@@ -1,0 +1,690 @@
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_ v1\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Mi PC\Downloads\Tp 4_ v2\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\54343\Downloads\Tp 4_ v4\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v6\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\54343\Downloads\Tp 4_ v8\Tp 4_ v8\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_ v9 (con abm evento y genearacion de certificados)\Tp 4_ v9\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Segundo año Ingenieria en sistemas\Programacion II\Tp 4_ v10\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EliminarReunion.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionAgregar.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionModificar.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteEliminar.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteModificar.resources
+C:\Users\54343\Downloads\Tp 4_ nico\Tp 4_ nico\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesEdicion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EliminarReunion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesEdicion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionAgregar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Mi PC\Downloads\Tp 4_v14\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EliminarReunion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesEdicion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionAgregar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Mi PC\Downloads\Tp 4_v15\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EliminarReunion.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteEliminar.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteModificar.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesEdicion.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionAgregar.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionModificar.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Segundo Año Ingenieria en Sistemas\Programacion II\Tp 4_v16\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EliminarReunion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesEdicion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionAgregar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Mi PC\Downloads\Tp 4_v17\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EliminarReunion.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteEliminar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteModificar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesEdicion.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionAgregar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionModificar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v18\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionDelEvento.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EliminarReunion.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteEliminar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteModificar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesEdicion.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionAgregar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionDelEvento.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionModificar.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\Usuario\OneDrive\Materias\2ºaño\Segundo Cuatri\Programación II\Tps\Tp 4_v21\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EliminarReunion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesEdicion.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionAgregar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionDelEvento.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionEliminar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionModificar.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\Mi PC\Downloads\Tp 4_v22\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\Tp 4.exe
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\Tp 4.deps.json
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\Tp 4.runtimeconfig.json
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\Tp 4.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.AssemblyReference.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Form1.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Asistencias.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.Certificado.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EliminarReunion.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEdicion.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoEliminar.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.EventoModificar.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteEliminar.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipanteModificar.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesDelEvento.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ParticipantesEdicion.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionAgregar.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionDelEvento.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionEliminar.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Formularios.ReunionModificar.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp_4.Properties.Resources.resources
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.GenerateResource.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfoInputs.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.AssemblyInfo.cs
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CoreCompileInputs.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.csproj.CopyComplete
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\refint\Tp 4.dll
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.pdb
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\Tp 4.genruntimeconfig.cache
+C:\Users\zarat\OneDrive\Escritorio\UnRar\Tp 4_v finalisimo\Tp 4_v finalisimo\Tp 4\obj\Debug\net7.0-windows\ref\Tp 4.dll

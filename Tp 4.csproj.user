@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Controles\btAsistencia.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Asistencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Certificado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\EliminarReunion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\EventoEdicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\EventoEliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\EventoModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ParticipanteEliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ParticipanteModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ParticipantesDelEvento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ParticipantesEdicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ReunionAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ReunionDelEvento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ReunionEliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ReunionModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
